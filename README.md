@@ -4,7 +4,7 @@
 The data used in this project is from: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 # Model
-For this classifier i tried multiple model for classification, and then chose to go with Random Forest which gave 97% Accuracy and 1 precision score.
+For this classifier i tried multiple model for classification, and then chose to go with XGBoost which gives higher balance of f1 score. 86%
 
 ### METRICS
     | Algorithm | Accuracy  | Precision |
